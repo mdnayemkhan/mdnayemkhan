@@ -1,7 +1,7 @@
 ![I am Java | Android App Developer](https://pbs.twimg.com/profile_banners/1586191102344048642/1667052370/1500x500)
-### Hi there 👋, my name is
+### Hi there 👋, This is
 # Md Nayem Khan
-#### I am Java | Android App Developer
+#### Java | Android App Developer
 
 Hi, I am Nayem Khan from Bangladesh. I am an android app developer, I have many apps in the google play store, which I have developed. Besides, I have experience working in some software companies.
 
